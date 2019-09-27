@@ -1,6 +1,5 @@
-bootstrap: library
+bootstrap: docker
 from:alpine:latest
-stage: final
 
 %labels
   MAINTAINER Ser Heang TAN <serheang+git@gmail.com>
